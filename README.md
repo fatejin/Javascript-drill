@@ -1,7 +1,7 @@
 # Javascript-drill
-Javascript drill for study
+<h1>Javascript drill for study<h1>
 
-<h2>수업의 내용</h2>
+<strong><h2>수업의 내용</h2><strong>
 
 <h3>Run JavaScript</h3>
 
