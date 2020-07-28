@@ -1,5 +1,5 @@
 # Javascript-drill
-<h1>Javascript drill for study<h1>
+
 
 <strong><h2>수업의 내용</h2><strong>
 
