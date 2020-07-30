@@ -1,7 +1,7 @@
 # Javascript-drill
 
 
-<strong><h2>수업의 내용</h2><strong>
+<strong><h2>Javascript with HTML&CSS for web </h2><strong>
 
 <h3>Run JavaScript</h3>
 
